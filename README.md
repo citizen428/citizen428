@@ -4,4 +4,4 @@
 [linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&&color=585858&logo=linkedin
 [mastodon]: https://img.shields.io/static/v1?label=&message=Mastodon&color=585858&logo=mastodon
 
-[![blog]](https://citizen428.net/) [![sourcehut]](https://sr.ht/~citizen428/) [![gitlab]](https://gitlab.com/citizen428/) [![tildegit]](https://tildegit.org/citizen428) [![mastodon]](https://chaos.social/@citizen428) [![linkedin]](https://www.linkedin.com/in/citizen428) 
+[![blog]](https://citizen428.net/) [![sourcehut]](https://sr.ht/~citizen428/) [![gitlab]](https://gitlab.com/citizen428/) [![mastodon]](https://chaos.social/@citizen428) [![linkedin]](https://www.linkedin.com/in/citizen428) 
